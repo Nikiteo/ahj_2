@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/hsasvjyt3631mn1t?svg=true)](https://ci.appveyor.com/project/Nikiteo/ahj-2)
+[![Build status](https://ci.appveyor.com/api/projects/status/mu3omln6p0el490t?svg=true)](https://ci.appveyor.com/project/Nikiteo/ahj-2)
 
 https://nikiteo.github.io/ahj_2
 
